@@ -1,2 +1,2 @@
 刘光辉的学习笔记
-[github.liuguanghui.vip]
+[我的主网页](github.liuguanghui.vip)
